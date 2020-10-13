@@ -13,5 +13,6 @@ The installation part, there’s a less hacky way:
 
 ## Features
 
-[ ] Supports XDC keywords and highlighting (SDC extension subset)
-[ ] Supports TCL keywords and highlighting (Vivado extensions for cmds)
+- [x] Basic
+- [ ] Supports XDC keywords and highlighting (SDC extension subset)
+- [ ] Supports TCL keywords and highlighting (Vivado extensions for cmds)
